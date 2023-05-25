@@ -1,2 +1,2 @@
 # C_programming_projects
-this are some of my c projects
+These projects contain different C concepts from control jumps to calculation to arrays to birfucation and many more
